@@ -1,0 +1,9 @@
+.DS_Store
+Temp
+Logs
+.idea
+Thumbs.db
+.log
+.lock
+.tmp
+.class
